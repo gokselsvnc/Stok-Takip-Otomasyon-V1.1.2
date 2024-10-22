@@ -15,4 +15,5 @@ Adım 5 Progrma Giriş Penceresini Açın ve giriş yapın programa ve giriş ya
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G1EsAUSGZWw?si=MnBQmbY3GaLSs5MX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Sql Kurulum Videosu 
+https://youtu.be/G1EsAUSGZWw?si=3YKcgv--0GjqO0Cl
