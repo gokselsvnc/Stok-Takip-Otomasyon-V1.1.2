@@ -1,6 +1,6 @@
 # Stok-Takip-Otomasyon-V1.1.2
 Beni Oku Versiyon 1.1.2 Versiyonu için 
-Adım 1 Sql Management Studio indir linkleri aşağıda verilmiştir .
+Adım 1 Sql Management Studio indir linkleri aşağıda verilmiştir . /n
 Adım 2 Sql Management Studio Kurulumunu bilmeyenler için hata yapmayın diye lütfen ikinci linkdeki gibi izleyerek kurulum yapın .
 Adım 2 Linkdeki Verdigim .exe dosyasını kurun ama açmayn .
 Adım 3 Kurulumdan sonra hata aldıgınızda visual studio hatası alıyorsanız 2017 dagatılabilinir ektentisini kurmayı unutmayın .
